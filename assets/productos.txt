@@ -16,5 +16,29 @@
    "price": 345.67,
    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
    "id": 3
+ },
+ {
+   "title": "Lapicera",
+   "price": 4.5,
+   "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+   "id": 4
+ },
+ {
+   "title": "Regla",
+   "price": 5.67,
+   "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+   "id": 5
+ },
+ {
+   "title": "Cuaderno",
+   "price": 34.56,
+   "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+   "id": 6
+ },
+ {
+   "title": "Cartuchera",
+   "price": 250.67,
+   "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+   "id": 7
  }
 ]
